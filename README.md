@@ -1,7 +1,5 @@
 ## Hi there, I'm Ye Wang! Now living in Canada
 
-##
-
 ###
 
 I am a creative front-end developer with 4+ years of experience. Skilled in designing, developing and testing multiple web-based application.
