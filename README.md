@@ -1,7 +1,7 @@
-## Hi there, I'm Ye Wang! Now living in Canada
+# Full Stack Web Developer
 
-###
+Welcome to my GitHub profile! I am a Full Stack Web Developer with over 4 years of experience in creating user-focused websites and applications using React.js, Node.js, and Laravel.
 
-I am a creative full stack web developer with 4+ years of experience. Skilled in designing, developing and testing multiple web-based application.
+My expertise includes front-end technologies like HTML, CSS, JavaScript, Git, and UI technologies such as Photoshop, Illustrator, CSS Grid, Flexbox, and Bootstrap. I also have a solid understanding of back-end SQL and NoSQL databases, TypeScript, Object-oriented programming, and Test-driven development using Jest.
 
-I enjoy building out user friendly efficient websites and I am organized and detail-oriented, work well under pressure and deadlines, enjoy working with a variety of people, and have a great attitude of always striving for the best.
+Feel free to browse through my repositories to see my past projects and contributions. If you have any questions or inquiries, please don't hesitate to contact me!
