@@ -21,7 +21,7 @@ I code with:
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)]
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 
 Feel free to browse through my repositories to see my past projects and contributions. If you have any questions or inquiries, please don't hesitate to contact me!
