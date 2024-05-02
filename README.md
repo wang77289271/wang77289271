@@ -1,6 +1,6 @@
 # Full Stack Web Developer
 
-Welcome to my GitHub profile! I am a Full Stack Web Developer with over 4 years of experience in creating user-focused websites and applications.
+Welcome to my GitHub profile! I am a Full Stack Web Developer with over 5 years of experience in creating user-focused web and mobile applications.
 
 I code with:
 
